@@ -13,6 +13,8 @@
 - **Patricia M. Palagi**, patricia.palagi@sib.swiss, SIB Swiss Institute of Bioinformatics, 0000-0001-9062-6303;
 - **Alexander Botzki**, alexander.botzki@vib.be, VIB, 0000-0001-6691-4233
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7936329.svg)](https://doi.org/10
+
 ----
 
 Recently, LifeSciTrainers.org held two community calls to discuss the potential of using ChatGPT, a large-scale AI language model, as a tool for training and teaching bioinformatics. The calls brought together experts, educators, and practitioners in the field to share their thoughts and experiences on the benefits and challenges of integrating ChatGPT into their teaching methods. This blog post summarizes the major points from these discussions.
