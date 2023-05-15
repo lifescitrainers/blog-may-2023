@@ -13,7 +13,7 @@
 - **Patricia M. Palagi**, patricia.palagi@sib.swiss, SIB Swiss Institute of Bioinformatics, 0000-0001-9062-6303;
 - **Alexander Botzki**, alexander.botzki@vib.be, VIB, 0000-0001-6691-4233
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7936329.svg)](https://doi.org/10
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7936329.svg)](https://doi.org/10)
 
 ----
 
