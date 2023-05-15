@@ -1,0 +1,1 @@
+ LifeSciTrainers Blog - May 2023 © 2023 by Jason Williams is licensed under Attribution 4.0 International. To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0)
